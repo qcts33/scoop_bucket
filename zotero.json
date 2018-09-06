@@ -1,0 +1,15 @@
+{
+    "homepage": "https://www.zotero.org/",
+    "version": "5.0.55",
+    "url": "https://download.zotero.org/client/release/5.0.55/Zotero-5.0.55_setup.exe#/dl.7z",
+    "bin": [
+        ""
+    ],
+    "shortcuts": [
+        [
+            "zotero.exe",
+            "Zotero"
+        ]
+    ],
+    "extract_dir": "core"
+}
