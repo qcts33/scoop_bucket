@@ -2,6 +2,7 @@
     "homepage": "https://www.zotero.org/",
     "version": "5.0.55",
     "url": "http://download.zotero.org/client/release/5.0.55/Zotero-5.0.55_setup.exe#/dl.7z",
+    "hash": "b805563782404453148646d85d8dc96a3015ba4e998c6d204399270efd9d8d07",
     "bin": [
         ""
     ],
