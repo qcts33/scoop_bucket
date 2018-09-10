@@ -1,0 +1,9 @@
+{
+    "homepage": "http://www.pstoedit.net/",
+    "description": "pstoedit translates PostScript and PDF graphics into other vector formats. ",
+    "version": "3.72",
+    "url": "https://sourceforge.net/projects/pstoedit/files/pstoedit/3.72/pstoeditsetup_x64.exe/download",
+    "innosetup": true,
+    "bin": "pstoedit.exe",
+    "hash": "BEB75313D715B4543AC5E7CC13942F464AB13C2B2632B988F3443E9CC170BFB4"
+}
