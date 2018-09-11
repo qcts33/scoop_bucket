@@ -1,0 +1,13 @@
+{
+    "homepage": "https://tamlok.github.io/vnote",
+    "version": "1.22",
+    "url": "https://github.com/tamlok/vnote/releases/download/v1.22/VNote_win_X64_portable_1.22.zip",
+    "hash": "D6BA3D7294D2861FE2404BA2C34677EE4644F7DA37A5E5DDB455919FAC331129",
+    "extract_dir": "VNote",
+    "shortcuts": [
+        [
+            "VNote.exe",
+            "VNote"
+        ]
+    ]
+}
